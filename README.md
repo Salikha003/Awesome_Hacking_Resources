@@ -357,7 +357,7 @@ Name    |    Description
 [The Hacker News](https://thehackernews.com/) | features a daily stream of hack news, also has an app
 
 
-Cybersecurity
+
 
 
 
