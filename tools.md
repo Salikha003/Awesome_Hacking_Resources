@@ -20,15 +20,6 @@ Repository | Description
 [ctf-tools](https://github.com/zardus/ctf-tools) | Some setup scripts for security research tools. 
 [PENTEST-WIKI](https://github.com/nixawk/pentest-wiki) | PENTEST-WIKI is a free online security knowledge library for pentesters / researchers. If you have a good idea, please share it with others.
 
-Tools
-Tools
-Tools
-Tools
-Tools
-Tools
-Tools
-Tools
-
 ### Awesome custom projects / Scripts
 Name | Description
 ---- | ----
