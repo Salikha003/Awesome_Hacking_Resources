@@ -143,3 +143,4 @@ https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
 https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
 https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
 [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
+[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)
