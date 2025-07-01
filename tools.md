@@ -4,6 +4,9 @@
 
 A curated list of awesome Hacking Tools. Your contributions are always welcome !
 
+[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
+
+
 ### Awesome Repositories
 Repository | Description
 ---- | ----
