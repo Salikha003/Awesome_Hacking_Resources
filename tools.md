@@ -135,17 +135,3 @@ Name | Description
 Name | Description
 ---- | ----
 [Dradis](https://dradisframework.com/ce/) | Open-source reporting and collaboration tool for InfoSec professionals
-
-[Awesome-osint](https://github.com/jivoi/awesome-osint)
-[Awesome-osint](https://github.com/jivoi/awesome-osint)
-[Awesome-osint](https://github.com/jivoi/awesome-osint)
-[Awesome-osint](https://github.com/jivoi/awesome-osint)
-[Awesome-osint](https://github.com/jivoi/awesome-osint)
-[Awesome-osint](https://github.com/jivoi/awesome-osint)
-[Awesome-osint](https://github.com/jivoi/awesome-osint)
-[Awesome-osint](https://github.com/jivoi/awesome-osint)
-[Awesome-osint](https://github.com/jivoi/awesome-osint)
-[Awesome-osint](https://github.com/jivoi/awesome-osint)
-[Awesome-osint](https://github.com/jivoi/awesome-osint)
-[Awesome-osint](https://github.com/jivoi/awesome-osint)
-[Awesome-osint](https://github.com/jivoi/awesome-osint)
