@@ -20,19 +20,6 @@ Repository | Description
 [ctf-tools](https://github.com/zardus/ctf-tools) | Some setup scripts for security research tools. 
 [PENTEST-WIKI](https://github.com/nixawk/pentest-wiki) | PENTEST-WIKI is a free online security knowledge library for pentesters / researchers. If you have a good idea, please share it with others.
 
-[Xerosploit](https://github.com/LionSec/xerosploit)
-[Xerosploit](https://github.com/LionSec/xerosploit)
-[Xerosploit](https://github.com/LionSec/xerosploit)
-[Xerosploit](https://github.com/LionSec/xerosploit)
-[Xerosploit](https://github.com/LionSec/xerosploit)
-[Xerosploit](https://github.com/LionSec/xerosploit)
-[Xerosploit](https://github.com/LionSec/xerosploit)
-[Xerosploit](https://github.com/LionSec/xerosploit)
-[Xerosploit](https://github.com/LionSec/xerosploit)
-[Xerosploit](https://github.com/LionSec/xerosploit)
-[Xerosploit](https://github.com/LionSec/xerosploit)
-[Xerosploit](https://github.com/LionSec/xerosploit)
-[Xerosploit](https://github.com/LionSec/xerosploit)
 
 
 ### Awesome custom projects / Scripts
