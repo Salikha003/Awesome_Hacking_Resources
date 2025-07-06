@@ -25,6 +25,7 @@ Repository | Description
 [Xerosploit](https://github.com/LionSec/xerosploit)
 [Xerosploit](https://github.com/LionSec/xerosploit)
 [Xerosploit](https://github.com/LionSec/xerosploit)
+[Xerosploit](https://github.com/LionSec/xerosploit)
 
 ### Awesome custom projects / Scripts
 Name | Description
